@@ -1,7 +1,8 @@
+import LoginView from '@/components/views/auth/Login/Index';
 const LoginPage = () => {
     return (
         <>
-            <div className=''>LoginPage</div>
+            <LoginView />
         </>
     );
 };
